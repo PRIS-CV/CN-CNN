@@ -58,3 +58,14 @@ Python 3.6 with all of the `pip install -r requirements.txt` packages including:
 1. `python -m visdom.server` to start visdom server.
 
 2. Visualize online attention masks on `http://localhost:8097`.
+
+## Citation
+If you find this paper useful in your research, please consider citing:
+```
+@article{guo2021cross,
+  title={Cross-layer Navigation Convolutional Neural Network for Fine-grained Visual Classification},
+  author={Guo, Chenyu and Xie, Jiyang and Liang, Kongming and Sun, Xian and Ma, Zhanyu},
+  journal={arXiv preprint arXiv:2106.10920},
+  year={2021}
+}
+```
