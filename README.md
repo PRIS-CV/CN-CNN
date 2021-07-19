@@ -1,4 +1,4 @@
-Cross-layer Navigation Convolutional Neural Network for Fine-grained Visual Classification
+# Cross-layer Navigation Convolutional Neural Network for Fine-grained Visual Classification
 
 ## Dependencies
 Python 3.6 with all of the `pip install -r requirements.txt` packages including:
@@ -69,3 +69,8 @@ If you find this paper useful in your research, please consider citing:
   year={2021}
 }
 ```
+
+## Contact
+Thanks for your attention! If you have any suggestion or question, you can leave a message here or contact us directly:
+- [guochenyu@bupt.edu.cn]（guochenyu@bupt.edu.cn)
+-
