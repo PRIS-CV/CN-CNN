@@ -1,4 +1,4 @@
-# CN-CNN
+# Cross-layer Navigation Convolutional Neural Network for Fine-grained Visual Classification
 
 ### Dependencies
 Python 3.6 with all of the `pip install -r requirements.txt` packages including:
