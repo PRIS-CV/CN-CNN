@@ -72,5 +72,5 @@ If you find this paper useful in your research, please consider citing:
 
 ## Contact
 Thanks for your attention! If you have any suggestion or question, you can leave a message here or contact us directly:
-- [guochenyu@bupt.edu.cn]（guochenyu@bupt.edu.cn)
--
+- guochenyu@bupt.edu.cn
+- mazhanyu@bupt.edu.cn
