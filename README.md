@@ -9,14 +9,14 @@ Python 3.6 with all of the `pip install -r requirements.txt` packages including:
 ## Data
 1. Download the FGVC image data. Extract them to `data/cars/`, `data/birds/` and `data/airs/`, respectively.
 * [Stanford-Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) (cars)
-```
+`
   -/cars/
      └─── car_ims
              └─── 00001.jpg
              └─── 00002.jpg
              └─── ...
      └─── cars_annos.mat
-```
+`
 * [CUB-200-2011](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) (birds)
 ```
   -/birds/
