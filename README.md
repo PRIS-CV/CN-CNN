@@ -6,7 +6,7 @@ Python 3.6 with all of the `pip install -r requirements.txt` packages including:
 - `opencv-python`
 - `visdom`
 
-### Data
+## Data
 1. Download the FGVC image data. Extract them to `data/cars/`, `data/birds/` and `data/airs/`, respectively.
 * [Stanford-Cars](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) (cars)
 ```
@@ -47,7 +47,7 @@ Python 3.6 with all of the `pip install -r requirements.txt` packages including:
   - For cars: `python utils/split_dataset/cars_dataset.py`
   - For airs: `python utils/split_dataset/airs_dataset.py`
 
-### Training
+## Training
 **Start:**
 
 1. `python train.py --dataset {cars,airs,birds} --model {resnet50} [options: --visualize]` to start training.
